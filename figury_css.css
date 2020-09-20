@@ -1,0 +1,13 @@
+.kwadrat, .kolo, .prostokat{
+  width: 500px;
+  height: 500px;
+  background: #f00;
+}
+.kolo{
+  border-radius: 50%;
+  background: #0f0;
+}
+.prostokat{
+  width: 750px;
+  background: #00f;
+}
